@@ -1,13 +1,22 @@
-# translate
-Kullanılan Kütüphaneler:
-react-toolkit: Uygulama durum yönetimi için Redux Toolkit kullanılır. Daha basit ve verimli bir şekilde Redux işlemleri yapılmasına olanak tanır.
+**Translate**, kullanıcıların metinleri birden fazla dil arasında anlık olarak çevirmesini sağlayan basit ve etkili bir çeviri uygulamasıdır. Harici bir çeviri API’si kullanarak hızlı ve doğru çeviri sunar. Temiz ve mobil uyumlu bir kullanıcı arayüzüne sahiptir.
 
-react-select: Dinamik ve özelleştirilebilir dropdown (seçim) menüleri oluşturmak için kullanılan bir React kütüphanesidir.
+🚀 Özellikler
+🌐 Birden fazla dil arasında çeviri
 
-axios: HTTP istekleri yapmak için kullanılan bir kütüphanedir. API'lere veri almak veya göndermek için kullanılır.
+⚡ Gerçek zamanlı ve hızlı yanıt
 
-tailwind: Duyarlı ve özelleştirilebilir stil tasarımları oluşturmanızı sağlayan bir CSS framework'üdür.
+🧼 Basit ve anlaşılır arayüz
 
-react-redux: React uygulamaları için Redux entegrasyonunu sağlar ve uygulama durumunun (state) yönetilmesini kolaylaştırır.
+📱 Tüm cihazlara uyumlu responsive tasarım
 
-Bu kütüphaneler, uygulamanın gelişmiş işlevselliğini sağlamak ve kullanıcı deneyimini iyileştirmek için kullanılmaktadır.
+🛠️ Kullanılan Teknolojiler
+HTML5 – Sayfa yapısı
+
+CSS3 – Stil ve tasarım
+
+JavaScript – Uygulama mantığı ve etkileşim
+
+Çeviri API’si – Çeviriler için 
+
+https://github.com/user-attachments/assets/ce7df91b-a26c-46dd-b5d9-c0ffe5e64de6
+
